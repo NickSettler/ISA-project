@@ -1,0 +1,7 @@
+# Own - ignore binary file
+dns
+
+build/
+
+xmoise01.tar
+README
